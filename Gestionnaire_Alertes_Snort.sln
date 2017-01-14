@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestionnaire_Alertes_Snort", "Gestionnaire_Alertes_Snort\Gestionnaire_Alertes_Snort.csproj", "{847405A7-306D-4175-B537-DECB0AC826BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComTelnet", "ComTelnet\ComTelnet.csproj", "{78BFE7C3-C559-48D2-9D3B-14B3367E918D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847405A7-306D-4175-B537-DECB0AC826BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847405A7-306D-4175-B537-DECB0AC826BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847405A7-306D-4175-B537-DECB0AC826BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847405A7-306D-4175-B537-DECB0AC826BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BFE7C3-C559-48D2-9D3B-14B3367E918D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BFE7C3-C559-48D2-9D3B-14B3367E918D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BFE7C3-C559-48D2-9D3B-14B3367E918D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BFE7C3-C559-48D2-9D3B-14B3367E918D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

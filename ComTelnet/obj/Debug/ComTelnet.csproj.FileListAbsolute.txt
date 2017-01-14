@@ -1,0 +1,6 @@
+C:\Users\nadjial\Documents\Visual Studio 2012\Projects\Gestionnaire_Alertes_Snort\ComTelnet\bin\Debug\ComTelnet.exe.config
+C:\Users\nadjial\Documents\Visual Studio 2012\Projects\Gestionnaire_Alertes_Snort\ComTelnet\bin\Debug\ComTelnet.exe
+C:\Users\nadjial\Documents\Visual Studio 2012\Projects\Gestionnaire_Alertes_Snort\ComTelnet\bin\Debug\ComTelnet.pdb
+C:\Users\nadjial\Documents\Visual Studio 2012\Projects\Gestionnaire_Alertes_Snort\ComTelnet\obj\Debug\ComTelnet.csprojResolveAssemblyReference.cache
+C:\Users\nadjial\Documents\Visual Studio 2012\Projects\Gestionnaire_Alertes_Snort\ComTelnet\obj\Debug\ComTelnet.exe
+C:\Users\nadjial\Documents\Visual Studio 2012\Projects\Gestionnaire_Alertes_Snort\ComTelnet\obj\Debug\ComTelnet.pdb
